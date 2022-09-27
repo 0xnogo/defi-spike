@@ -74,7 +74,7 @@ The Uniswap protocol is governed and upgraded by UNI token holders, using three 
 
 Any addresses with more than 2.5M UNI delegated to it may propose governance actions, which contain finished, executable code. When a proposal is created, the community can cast their votes during a 3 day voting period. If a majority, and at least 4M votes are cast for the proposal, it is queued in the Timelock, and may be executed in a minimum of 2 days.
 
-## How to use
+## Opportunities
 * Each project has to list the token here. This is the easiest way for user to start trading it.
 * As a mev searcher, sandwitch attack are possible.
 * flash loans can help build strategies requiring funds not owned by the user.
